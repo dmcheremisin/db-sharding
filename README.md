@@ -15,5 +15,3 @@ docker inspect pgshard1
 
 ## Example requests:
 Requests.http
-
-git@github.com:dmcheremisin/db-sharding.git
