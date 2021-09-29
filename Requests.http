@@ -1,0 +1,6 @@
+GET http://127.0.0.1:8081/7ah4F
+
+###
+
+POST http://localhost:8081/?url=https://en.wikipedia.org/wiki/random5
+Content-Type: application/json

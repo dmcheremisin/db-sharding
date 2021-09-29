@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.idea
+*.iml
+*.swp
+.babel.json
+lib
+public
+!public/.gitkeep
+src/i18n
+!src/i18n/.gitkeep
